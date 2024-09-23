@@ -156,7 +156,7 @@
     text-align: center;
     color: white;
     padding: 70px 0;
-    background-image: url("earth.jpeg");
+    background-image: url("codebase_image/earth.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -168,7 +168,7 @@
     
 }
 .cont{
-    width: 350px;
+    width: 364px;
     background-color: #2B2A2F;
     text-align: center;
     border-radius: 20px;
@@ -366,7 +366,7 @@
 }
 footer{
     width: 100%;
-
+    height: 250px;
     background-color: #4E0FEA;
     padding: 2rem 50px;
     display: flex;
